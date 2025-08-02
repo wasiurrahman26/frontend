@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 function DashboardRedirect() {
   const handleRedirect = () => {
-    window.location.href = "http://localhost:3001";
+    window.location.href = "https://dashboard-cnlh.onrender.com";
   };
 
   return (
